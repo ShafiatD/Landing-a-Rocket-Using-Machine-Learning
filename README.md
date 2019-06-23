@@ -4,4 +4,4 @@ In this project we'll attempt to train a neural network to land a rocket [à la 
 
 #### You will need to install [TensorFlow](https://www.tensorflow.org/install/) and [Keras](https://keras.io/#installation) (in that order) before we start.
 
-Running ![Mode0] will give our solution for Mode 0, likewise for ![Mode1]. 
+#### Running [Mode0.py] will give our solution for Mode 0, likewise for [Mode1.py]. 
